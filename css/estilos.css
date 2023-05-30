@@ -1,0 +1,18 @@
+p{
+    color :red;
+    width: 500px;
+    border: 1px solid black;
+
+}
+h1{
+    color :blue;
+}
+ul>li{
+    color: blue;
+}
+ul+li{
+    color: blue;
+}
+p~img{
+    text-align: left;
+}
